@@ -44,3 +44,4 @@ Software: Python 3.9.12, Visual Studio Code, 1.38.1
 #challenge 3 The Election Results see visual attachment by clicking below: ![image](https://user-images.githubusercontent.com/107796290/185283443-41bd7b45-0836-4b24-be4f-4ca1be98d4ad.png)
 # election-analysis
 
+![2022-08-20 18 34 36](https://user-images.githubusercontent.com/107796290/185768278-5ca29133-586d-4e1f-84ed-5df4551e7164.png)
